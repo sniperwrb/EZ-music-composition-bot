@@ -120,7 +120,7 @@ m_copy_rate = np.array([0,0,0,0,0,0,0,0,
                0.80, 0.75, 0.69, 0.63, 0.57, 0.49, 0.40, 0.28,  0.35, 0.25])
 m_copy_from_short = m_copy_from[[0,1,2,3,4,5,6,7,14,15]]
 m_copy_rate_short = m_copy_rate[[0,1,2,3,4,5,6,7,14,15]]
-Force_on_chord = True
+Force_on_chord = False
 pdist_sparse = [5,4,3,0,0,0,0]#[5.6,3.6,2.2,0.8,0.5,0.3,0.2]
 fdist_sparse = [1,1,1,0,0,0,0]
 last_note=12
