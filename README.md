@@ -14,6 +14,7 @@ Now the song is played 25% faster than before, with chords played together
 
 2. It is more likely that the note will fall on chords
 (such as C,E,G are more likely to occur when C-Major chord is effective)
+to make the song harmonious
 
 3. From the 9th bar of each section, a note is more likely to have the same key as the note 8 bars ago.
 (So the verse and chorus can be regarded as a 8-bar structure that repeats once more)
